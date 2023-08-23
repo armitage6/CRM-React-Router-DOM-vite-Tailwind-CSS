@@ -1,0 +1,45 @@
+{
+  "libros": [
+    {
+      "nombre": "Isaac Asimov",
+      "libro": "Fundación",
+      "editorial": "Librolan",
+      "email": "Isaac@juan.com",
+      "telefono": "102013313",
+      "notas": "ab",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "libro": "El fin de la infancia",
+      "nombre": "Arthur C. Clarke",
+      "telefono": 138198313,
+      "email": "Arthur@juan.com",
+      "editorial": "Librolan"
+    },
+    {
+      "id": 3,
+      "libro": "¿Sueñan los android es con ovejas eléctricas?",
+      "nombre": "Philip K. Dick",
+      "telefono": 31983913,
+      "email": "Philip@juan.com",
+      "editorial": "Librolan"
+    },
+    {
+      "id": 4,
+      "libro": "Un mago de Terramar",
+      "nombre": "Ursula K. Le Guin",
+      "telefono": 319381983,
+      "email": "Ursula@juan.com",
+      "editorial": "Librolan"
+    },
+    {
+      "id": 5,
+      "libro": "Tropas del espacio",
+      "nombre": "Robert A. Heinlein",
+      "telefono": 1398198938,
+      "email": "Robert@juan.com",
+      "editorial": "Librolan"
+    }
+  ]
+}
