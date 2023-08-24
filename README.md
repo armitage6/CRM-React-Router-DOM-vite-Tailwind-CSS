@@ -7,8 +7,13 @@
 - Css
 - Html
 - Tailwind
+- Vite
 
 ### ¿Cómo correr el proyecto?
+Para correr el proyecto se implementar en la terminal el comando 
+- npm dev run
+
+
 Para este proyecto sera necesario instalar las libreria de Tailwind 
 - npm install -D tailwindcss postcss autoprefixer
 
