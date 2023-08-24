@@ -11,7 +11,7 @@
 
 ### ¿Cómo correr el proyecto?
 Para correr el proyecto se implementar en la terminal el comando 
-- npm dev run
+- npm run dev
 
 
 Para este proyecto sera necesario instalar las libreria de Tailwind 
